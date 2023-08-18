@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 export default class Navbar extends Component {
   render() {
-    return (
+    return ( 
       <div>
         <nav className="navbar navbar-expand-lg " style={{backgroundColor:"#e3f3fd"}}>
     <div className="container-fluid">
